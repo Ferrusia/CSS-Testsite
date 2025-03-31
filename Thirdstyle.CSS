@@ -1,0 +1,30 @@
+#box5{
+    /*lesson 7*/
+    border: 1px solid;
+    height: 300px;
+    width: 300px;
+    background-color:skyblue;
+    position:relative;
+    top: 50px;
+    left: 50px;
+}
+#box6{
+    border: 1px solid;
+    height: 100px;
+    width: 100px;
+    background-color:tomato;
+    top: 100px;
+    left: 100px;
+
+    position:relative;
+}
+#box69{
+    border: 1px solid;
+    height: 100px;
+    width: 100px;
+    background-color: yellowgreen;
+
+    position: sticky;
+    top: 100px;
+    left: 50px;
+}
